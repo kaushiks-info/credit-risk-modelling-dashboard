@@ -1,5 +1,7 @@
 # Credit Risk Modelling Dashboard
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-ff4b4b?logo=streamlit)](https://credit-default-risk.streamlit.app/)
+
 A compact, modern, machine-learning–driven dashboard that predicts **default probability**, **credit score**, and **risk rating** using key financial and behavioral inputs.
 
 Built with a clean dark UI, finance-style visualization, and a compact layout for quick credit assessment.
