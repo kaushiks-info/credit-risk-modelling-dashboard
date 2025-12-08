@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Streamlit cache & secrets
+.streamlit/cache/
+.streamlit/secrets.toml
+
+# Byte-compiled / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# compiled files
+*.pyc
