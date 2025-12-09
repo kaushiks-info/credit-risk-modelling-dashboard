@@ -4,8 +4,6 @@
 
 A compact, modern, machine-learning–driven dashboard that predicts **default probability**, **credit score**, and **risk rating** using key financial and behavioral inputs.
 
-Built with a clean dark UI, finance-style visualization, and a compact layout for quick credit assessment.
-
 ---
 
 ## 📸 UI Screenshot
